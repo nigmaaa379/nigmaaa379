@@ -231,5 +231,5 @@ I'm always interested in discussing **AI Agents**, **Founder Journeys**, **Inves
 
 <div align="center">
   <sub>Built with ❤️ by Egor | Powered by ☕, 🧠, and 🚀</sub><br>
-  <sub>© 2024 All Projects. Building the future of human-centric AI.</sub>
+  <sub>© 2026 All Projects. Building the future of human-centric AI.</sub>
 </div>
